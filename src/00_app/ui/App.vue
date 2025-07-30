@@ -1,3 +1,7 @@
-<script lang="ts" setup></script>
+<script lang="ts" setup>
+import "../assets/styles/index.css"
+</script>
 
-<template>APP</template>
+<template>
+  <RouterView />
+</template>
